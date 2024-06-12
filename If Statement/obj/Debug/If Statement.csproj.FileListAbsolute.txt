@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\If Statement\bin\Debug\If Statement.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\If Statement\bin\Debug\If Statement.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\If Statement\bin\Debug\If Statement.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\If Statement\obj\Debug\If Statement.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\If Statement\obj\Debug\If Statement.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\If Statement\obj\Debug\If Statement.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\If Statement\obj\Debug\If Statement.pdb

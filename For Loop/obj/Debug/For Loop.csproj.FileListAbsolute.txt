@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\For Loop\obj\Debug\For Loop.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\For Loop\obj\Debug\For Loop.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\For Loop\bin\Debug\For Loop.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\For Loop\bin\Debug\For Loop.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\For Loop\bin\Debug\For Loop.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\For Loop\obj\Debug\For Loop.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\For Loop\obj\Debug\For Loop.pdb

@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\A[OOP]\ClassObject\bin\Debug\ClassObject.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\A[OOP]\ClassObject\bin\Debug\ClassObject.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\A[OOP]\ClassObject\bin\Debug\ClassObject.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\A[OOP]\ClassObject\obj\Debug\ClassObject.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\A[OOP]\ClassObject\obj\Debug\ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\A[OOP]\ClassObject\obj\Debug\ClassObject.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\A[OOP]\ClassObject\obj\Debug\ClassObject.pdb

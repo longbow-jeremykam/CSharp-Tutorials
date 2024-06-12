@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeremy.kam\\Desktop\\C# Tutorials\\Hypotenuse Calc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{955A3447-0691-4A8A-A167-150BDF0230D5}|Hypotenuse Calc\\Hypotenuse Calc.csproj|c:\\users\\jeremy.kam\\desktop\\c# tutorials\\hypotenuse calc\\hypotenuse calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955A3447-0691-4A8A-A167-150BDF0230D5}|Hypotenuse Calc\\Hypotenuse Calc.csproj|solutionrelative:hypotenuse calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeremy.kam\\Desktop\\C# Tutorials\\Hypotenuse Calc\\Hypotenuse Calc\\Program.cs",
+              "RelativeDocumentMoniker": "Hypotenuse Calc\\Program.cs",
+              "ToolTip": "C:\\Users\\jeremy.kam\\Desktop\\C# Tutorials\\Hypotenuse Calc\\Hypotenuse Calc\\Program.cs",
+              "RelativeToolTip": "Hypotenuse Calc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:12:48.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

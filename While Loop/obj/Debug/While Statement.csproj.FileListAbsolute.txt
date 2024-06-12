@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\While Statement\bin\Debug\While Statement.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\While Statement\bin\Debug\While Statement.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\While Statement\bin\Debug\While Statement.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\While Statement\obj\Debug\While Statement.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\While Statement\obj\Debug\While Statement.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\While Statement\obj\Debug\While Statement.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\While Statement\obj\Debug\While Statement.pdb

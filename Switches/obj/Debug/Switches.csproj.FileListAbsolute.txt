@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Switches\bin\Debug\Switches.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Switches\bin\Debug\Switches.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Switches\bin\Debug\Switches.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Switches\obj\Debug\Switches.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Switches\obj\Debug\Switches.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Switches\obj\Debug\Switches.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Switches\obj\Debug\Switches.pdb

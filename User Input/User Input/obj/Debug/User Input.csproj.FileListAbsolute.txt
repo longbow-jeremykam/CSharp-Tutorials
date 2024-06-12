@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\User Input\User Input\bin\Debug\User Input.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\User Input\User Input\bin\Debug\User Input.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\User Input\User Input\bin\Debug\User Input.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\User Input\User Input\obj\Debug\User Input.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\User Input\User Input\obj\Debug\User Input.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\User Input\User Input\obj\Debug\User Input.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\User Input\User Input\obj\Debug\User Input.pdb

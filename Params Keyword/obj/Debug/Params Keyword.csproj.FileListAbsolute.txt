@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Params Keyword\obj\Debug\Params Keyword.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Params Keyword\obj\Debug\Params Keyword.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Params Keyword\bin\Debug\Params Keyword.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Params Keyword\bin\Debug\Params Keyword.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Params Keyword\bin\Debug\Params Keyword.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Params Keyword\obj\Debug\Params Keyword.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Params Keyword\obj\Debug\Params Keyword.pdb

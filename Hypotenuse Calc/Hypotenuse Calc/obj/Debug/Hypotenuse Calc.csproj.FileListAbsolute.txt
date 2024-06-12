@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Hypotenuse Calc\Hypotenuse Calc\bin\Debug\Hypotenuse Calc.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Hypotenuse Calc\Hypotenuse Calc\bin\Debug\Hypotenuse Calc.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Hypotenuse Calc\Hypotenuse Calc\bin\Debug\Hypotenuse Calc.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Hypotenuse Calc\Hypotenuse Calc\obj\Debug\Hypotenuse Calc.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Hypotenuse Calc\Hypotenuse Calc\obj\Debug\Hypotenuse Calc.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Hypotenuse Calc\Hypotenuse Calc\obj\Debug\Hypotenuse Calc.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Hypotenuse Calc\Hypotenuse Calc\obj\Debug\Hypotenuse Calc.pdb

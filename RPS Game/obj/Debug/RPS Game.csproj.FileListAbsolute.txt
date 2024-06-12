@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\RPS Game\bin\Debug\RPS Game.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\RPS Game\bin\Debug\RPS Game.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\RPS Game\bin\Debug\RPS Game.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\RPS Game\obj\Debug\RPS Game.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\RPS Game\obj\Debug\RPS Game.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\RPS Game\obj\Debug\RPS Game.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\RPS Game\obj\Debug\RPS Game.pdb

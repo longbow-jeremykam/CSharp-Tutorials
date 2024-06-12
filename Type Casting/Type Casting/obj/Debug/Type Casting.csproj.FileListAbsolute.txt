@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Type Casting\Type Casting\bin\Debug\Type Casting.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Type Casting\Type Casting\bin\Debug\Type Casting.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Type Casting\Type Casting\bin\Debug\Type Casting.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Type Casting\Type Casting\obj\Debug\Type Casting.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Type Casting\Type Casting\obj\Debug\Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Type Casting\Type Casting\obj\Debug\Type Casting.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Type Casting\Type Casting\obj\Debug\Type Casting.pdb

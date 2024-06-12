@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Exception Handling\bin\Debug\Exception Handling.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Exception Handling\bin\Debug\Exception Handling.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Exception Handling\bin\Debug\Exception Handling.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Exception Handling\obj\Debug\Exception Handling.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Exception Handling\obj\Debug\Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Exception Handling\obj\Debug\Exception Handling.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Exception Handling\obj\Debug\Exception Handling.pdb

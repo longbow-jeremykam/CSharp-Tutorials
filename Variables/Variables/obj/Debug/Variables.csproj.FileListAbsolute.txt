@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Variables\Variables\obj\Debug\Variables.pdb

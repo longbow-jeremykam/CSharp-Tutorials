@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\MathClass\MathClass\bin\Debug\MathClass.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\MathClass\MathClass\bin\Debug\MathClass.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\MathClass\MathClass\bin\Debug\MathClass.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\MathClass\MathClass\obj\Debug\MathClass.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\MathClass\MathClass\obj\Debug\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\MathClass\MathClass\obj\Debug\MathClass.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\MathClass\MathClass\obj\Debug\MathClass.pdb

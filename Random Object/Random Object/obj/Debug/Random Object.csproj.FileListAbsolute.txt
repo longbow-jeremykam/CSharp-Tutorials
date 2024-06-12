@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Random Object\Random Object\bin\Debug\Random Object.exe.config
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Random Object\Random Object\bin\Debug\Random Object.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Random Object\Random Object\bin\Debug\Random Object.pdb
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Random Object\Random Object\obj\Debug\Random Object.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Random Object\Random Object\obj\Debug\Random Object.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Random Object\Random Object\obj\Debug\Random Object.exe
+C:\Users\jeremy.kam\Desktop\C# Tutorials\Random Object\Random Object\obj\Debug\Random Object.pdb
