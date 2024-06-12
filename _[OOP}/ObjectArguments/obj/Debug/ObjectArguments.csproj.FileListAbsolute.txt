@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ObjectArguments\bin\Debug\ObjectArguments.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ObjectArguments\bin\Debug\ObjectArguments.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ObjectArguments\bin\Debug\ObjectArguments.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ObjectArguments\obj\Debug\ObjectArguments.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ObjectArguments\obj\Debug\ObjectArguments.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ObjectArguments\obj\Debug\ObjectArguments.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ObjectArguments\obj\Debug\ObjectArguments.pdb

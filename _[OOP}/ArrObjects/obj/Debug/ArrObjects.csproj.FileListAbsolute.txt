@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ArrObjects\obj\Debug\ArrObjects.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ArrObjects\obj\Debug\ArrObjects.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ArrObjects\bin\Debug\ArrObjects.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ArrObjects\bin\Debug\ArrObjects.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ArrObjects\bin\Debug\ArrObjects.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ArrObjects\obj\Debug\ArrObjects.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\ArrObjects\obj\Debug\ArrObjects.pdb

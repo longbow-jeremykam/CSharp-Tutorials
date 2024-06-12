@@ -1,0 +1,4 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Abstract Keyword\obj\Debug\Abstract .csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Abstract Keyword\obj\Debug\Abstract .csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Abstract Keyword\obj\Debug\Inheritance.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Abstract Keyword\obj\Debug\Inheritance.pdb

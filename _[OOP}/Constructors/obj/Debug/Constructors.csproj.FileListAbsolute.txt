@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Constructors\bin\Debug\Constructors.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Constructors\bin\Debug\Constructors.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Constructors\obj\Debug\Constructors.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Constructors\obj\Debug\Constructors.pdb

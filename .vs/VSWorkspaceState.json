@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\A[OOP]",
-    "\\A[OOP]\\ClassObject",
-    "\\Constants\\Constants"
+    "\\_[OOP}",
+    "\\_[OOP}\\Encapsulation"
   ],
-  "SelectedNode": "\\A[OOP]\\ClassObject\\Messages.cs",
+  "SelectedNode": "\\_[OOP}\\Encapsulation\\Encapsulation.csproj",
   "PreviewInSolutionExplorer": false
 }

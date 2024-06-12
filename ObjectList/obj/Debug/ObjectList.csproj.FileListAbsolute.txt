@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ObjectList\bin\Debug\ObjectList.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ObjectList\bin\Debug\ObjectList.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ObjectList\bin\Debug\ObjectList.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ObjectList\obj\Debug\ObjectList.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ObjectList\obj\Debug\ObjectList.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ObjectList\obj\Debug\ObjectList.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ObjectList\obj\Debug\ObjectList.pdb

@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Inheritance\obj\Debug\Inheritance.pdb

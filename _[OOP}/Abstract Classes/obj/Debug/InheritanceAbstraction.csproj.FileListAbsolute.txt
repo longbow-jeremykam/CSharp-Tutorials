@@ -1,0 +1,4 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\InheritanceAbstraction\obj\Debug\InheritanceAbstraction.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\InheritanceAbstraction\obj\Debug\InheritanceAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\InheritanceAbstraction\obj\Debug\Inheritance.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\InheritanceAbstraction\obj\Debug\Inheritance.pdb

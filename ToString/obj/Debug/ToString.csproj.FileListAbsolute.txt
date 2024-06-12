@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ToString\bin\Debug\ToString.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ToString\bin\Debug\ToString.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ToString\bin\Debug\ToString.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ToString\obj\Debug\ToString.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ToString\obj\Debug\ToString.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ToString\obj\Debug\ToString.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\ToString\obj\Debug\ToString.pdb

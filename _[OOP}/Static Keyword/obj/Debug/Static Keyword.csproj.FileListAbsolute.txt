@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Static Keyword\bin\Debug\Static Keyword.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Static Keyword\bin\Debug\Static Keyword.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Static Keyword\bin\Debug\Static Keyword.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Static Keyword\obj\Debug\Static Keyword.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Static Keyword\obj\Debug\Static Keyword.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Static Keyword\obj\Debug\Static Keyword.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Static Keyword\obj\Debug\Static Keyword.pdb

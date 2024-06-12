@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\AbstractVirtualMethodOverriding\bin\Debug\Abstract Method.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\AbstractVirtualMethodOverriding\bin\Debug\Abstract Method.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\AbstractVirtualMethodOverriding\bin\Debug\Abstract Method.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\AbstractVirtualMethodOverriding\obj\Debug\AbstractVirtualMethodOverriding.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\AbstractVirtualMethodOverriding\obj\Debug\AbstractVirtualMethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\AbstractVirtualMethodOverriding\obj\Debug\Abstract Method.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\AbstractVirtualMethodOverriding\obj\Debug\Abstract Method.pdb

@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Lists\bin\Debug\Lists.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Lists\bin\Debug\Lists.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Lists\bin\Debug\Lists.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Lists\obj\Debug\Lists.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Lists\obj\Debug\Lists.pdb

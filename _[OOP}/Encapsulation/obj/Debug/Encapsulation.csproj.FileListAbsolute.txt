@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Encapsulation\obj\Debug\Getters & Setters.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Encapsulation\obj\Debug\Getters & Setters.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Encapsulation\bin\Debug\Getters & Setters.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Encapsulation\bin\Debug\Getters & Setters.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\_[OOP}\Encapsulation\bin\Debug\Getters & Setters.pdb

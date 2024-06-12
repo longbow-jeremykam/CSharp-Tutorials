@@ -5,3 +5,10 @@ C:\Users\jeremy.kam\Desktop\C# Tutorials\Methods\obj\Debug\Methods.csproj.Assemb
 C:\Users\jeremy.kam\Desktop\C# Tutorials\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
 C:\Users\jeremy.kam\Desktop\C# Tutorials\Methods\obj\Debug\Methods.exe
 C:\Users\jeremy.kam\Desktop\C# Tutorials\Methods\obj\Debug\Methods.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Methods\bin\Debug\Methods.exe.config
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Methods\bin\Debug\Methods.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Methods\bin\Debug\Methods.pdb
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Methods\obj\Debug\Methods.exe
+C:\Users\jeremy.kam\Desktop\CSharp-Tutorials\Methods\obj\Debug\Methods.pdb
