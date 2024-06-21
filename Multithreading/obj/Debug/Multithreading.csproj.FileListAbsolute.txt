@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multithreading\obj\Debug\Multithreading.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multithreading\obj\Debug\Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multithreading\bin\Debug\Multithreading.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multithreading\bin\Debug\Multithreading.exe
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multithreading\bin\Debug\Multithreading.pdb
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multithreading\obj\Debug\Multithreading.exe
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multithreading\obj\Debug\Multithreading.pdb

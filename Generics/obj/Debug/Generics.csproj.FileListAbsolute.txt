@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Generics\bin\Debug\Generics.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Generics\bin\Debug\Generics.exe
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Generics\bin\Debug\Generics.pdb
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Generics\obj\Debug\Generics.exe
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Generics\obj\Debug\Generics.pdb
