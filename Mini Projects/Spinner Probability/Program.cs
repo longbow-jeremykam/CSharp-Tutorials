@@ -18,7 +18,7 @@ namespace Spinner_Probability
             {"Legendary", 2000},
             {"Relic", 100},
             {"Contraband", 30},
-            {"Limited", 1}
+            {"Unobtainable", 1}
         };
 
         private static readonly Random rand = new Random();
@@ -28,13 +28,13 @@ namespace Spinner_Probability
             int numOfCatches = 0;
             int numOfSpins = 0;
             while (repeat) {
-                for (int i = 0; i < 1; i++)
+                for (int i = 0; i < 50; i++)
                 {
                     numOfSpins++;
                     String itemR = GetRandomItem();
-                    Console.WriteLine((i+1)+ ". \tRarity of Item:" + itemR);
-
-                    if (itemR.Equals("Contraband") || itemR.Equals("Limited") || itemR.Equals("Relic"))
+                    Console.WriteLine((i+1)+ ". \tRarity of Item: " + itemR);
+                        
+                    if (/*itemR.Equals("Contraband") || itemR.Equals("Relic") ||*/ itemR.Equals("Limited"))
                     {
                         Console.WriteLine("AMAZING!");
                         numOfCatches++;
@@ -42,12 +42,12 @@ namespace Spinner_Probability
                         break;
                     }
                 }
+                Console.WriteLine("\nStolen: " + numOfCatches);
 
                 Console.WriteLine();
                 Console.WriteLine("Respin? Y/N?");
                 repeat = (Console.ReadLine().ToUpper() == "N") ? false : true;
 
-                Console.WriteLine("Stolen:" + numOfCatches + "\n");
             }
         }
 

@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Game Spin\bin\Debug\Spinner Probability.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Game Spin\bin\Debug\Spinner Probability.exe
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Game Spin\bin\Debug\Spinner Probability.pdb
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Game Spin\obj\Debug\Game Spin.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Game Spin\obj\Debug\Game Spin.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Game Spin\obj\Debug\Spinner Probability.exe
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Game Spin\obj\Debug\Spinner Probability.pdb

@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jeremy.kam\\Documents\\GitHub\\CSharp-Tutorials\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D218BA1F-4C95-4EF6-A738-481A199D4FB9}|Multiples of X\\Multiples of X.csproj|c:\\users\\jeremy.kam\\documents\\github\\csharp-tutorials\\multiples of x\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D218BA1F-4C95-4EF6-A738-481A199D4FB9}|Multiples of X\\Multiples of X.csproj|solutionrelative:multiples of x\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jeremy.kam\\Documents\\GitHub\\CSharp-Tutorials\\Multiples of X\\Program.cs",
-              "RelativeDocumentMoniker": "Multiples of X\\Program.cs",
-              "ToolTip": "C:\\Users\\jeremy.kam\\Documents\\GitHub\\CSharp-Tutorials\\Multiples of X\\Program.cs",
-              "RelativeToolTip": "Multiples of X\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA1wA4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T04:36:29.585Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

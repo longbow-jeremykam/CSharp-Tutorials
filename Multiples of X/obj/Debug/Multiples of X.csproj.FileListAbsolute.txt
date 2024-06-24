@@ -1,7 +1,0 @@
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multiples of X\bin\Debug\Multiples of X.exe.config
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multiples of X\bin\Debug\Multiples of X.exe
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multiples of X\bin\Debug\Multiples of X.pdb
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multiples of X\obj\Debug\Multiples of X.csproj.AssemblyReference.cache
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multiples of X\obj\Debug\Multiples of X.csproj.CoreCompileInputs.cache
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multiples of X\obj\Debug\Multiples of X.exe
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Multiples of X\obj\Debug\Multiples of X.pdb

@@ -1,7 +1,0 @@
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Fizz Buzz Game\bin\Debug\Fizz Buzz Game.exe.config
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Fizz Buzz Game\bin\Debug\Fizz Buzz Game.exe
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Fizz Buzz Game\bin\Debug\Fizz Buzz Game.pdb
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Fizz Buzz Game\obj\Debug\Fizz Buzz Game.csproj.AssemblyReference.cache
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Fizz Buzz Game\obj\Debug\Fizz Buzz Game.csproj.CoreCompileInputs.cache
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Fizz Buzz Game\obj\Debug\Fizz Buzz Game.exe
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Fizz Buzz Game\obj\Debug\Fizz Buzz Game.pdb
