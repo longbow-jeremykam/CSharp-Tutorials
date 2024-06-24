@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\String Reverser\obj\Debug\String Reverser.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\String Reverser\obj\Debug\String Reverser.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\String Reverser\bin\Debug\String Reverser.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\String Reverser\bin\Debug\String Reverser.exe
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\String Reverser\bin\Debug\String Reverser.pdb
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\String Reverser\obj\Debug\String Reverser.exe
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\String Reverser\obj\Debug\String Reverser.pdb
