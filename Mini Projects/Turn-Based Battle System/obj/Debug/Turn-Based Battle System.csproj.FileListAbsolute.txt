@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Turn-Based Battle System\obj\Debug\Turn-Based Battle System.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Turn-Based Battle System\obj\Debug\Turn-Based Battle System.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Turn-Based Battle System\bin\Debug\Turn_Based_Battle_System.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Turn-Based Battle System\bin\Debug\Turn_Based_Battle_System.exe
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Turn-Based Battle System\bin\Debug\Turn_Based_Battle_System.pdb
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Turn-Based Battle System\obj\Debug\Turn_Based_Battle_System.exe
+C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Turn-Based Battle System\obj\Debug\Turn_Based_Battle_System.pdb

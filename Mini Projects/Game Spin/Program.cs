@@ -12,13 +12,13 @@ namespace Spinner_Probability
     {
         private static readonly Dictionary<String, int> itemProbs = new Dictionary<string, int>{
 
-            {"Uncommon", 2520},
-            {"Rare", 3650},
-            {"Epic", 3110},
-            {"Legendary", 600},
-            {"Relic", 80},
-            {"Contraband", 30},
-            {"Unobtainable", 10}
+            {"Uncommon", 0},
+            {"Rare", 4902},
+            {"Epic", 4055},
+            {"Legendary", 798},
+            {"Relic", 199},
+            {"Contraband", 45},
+            {"Unobtainable", 1}
         };
 
         private static readonly Random rand = new Random();
@@ -28,7 +28,7 @@ namespace Spinner_Probability
             int numOfCatches = 0;
             int numOfSpins = 0;
             while (repeat) {
-                for (int i = 0; i < 1; i++)
+                for (int i = 0; i < 50; i++)
                 {
                     numOfSpins++;
                     String itemR = GetRandomItem();
@@ -39,7 +39,6 @@ namespace Spinner_Probability
                         Console.WriteLine("AMAZING!");
                         numOfCatches++;
                         Console.WriteLine("Number of Spins: " + numOfSpins);
-                        break;
                     }
                 }
                 Console.WriteLine("\nStolen: " + numOfCatches);
@@ -62,6 +61,7 @@ namespace Spinner_Probability
             }
 
             int randomNumber = rand.Next(1, totalRange + 1);
+            Console.WriteLine("Number: " + randomNumber);
 
             int cumulativeRange = 0;
             foreach (var kvp in itemProbs)
